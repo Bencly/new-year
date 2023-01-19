@@ -3,4 +3,26 @@
     height: 70vh;
     width: 100%;
     display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    object-fit: contain;
+    text-align: center;
+}
+
+.inner-container > {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    object-fit: contain;
+    text-align: center;
+}
+
+.inner-container > h1 {
+  color: rgb(130, 30, 30);
+  font-size: 50px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
