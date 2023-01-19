@@ -1,0 +1,6 @@
+.confetti-container{
+    background-color: blanchedalmond;
+    height: 70vh;
+    width: 100%;
+    display: flex;
+}
